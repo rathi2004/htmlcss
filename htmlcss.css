@@ -1,0 +1,40 @@
+*{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtbQorHU2835OhaGaQeq5ICIjSH2UowvVtXg&usqp=CAU);
+    border-color:black;
+    border-width: 1px;
+}
+body{
+    border-style:solid;
+    border-width: 5px;
+    border-color: grey;
+    padding:25px;
+}
+h1{
+    color:hsl(240, 87%, 17%);
+    font-style:italic;
+   
+}
+#pro{
+    color:darkblue;
+}
+#mail{
+    color:rgb(54, 196, 243);
+    font-style:oblique;
+}
+#ph{
+    color:rgba(10, 85, 10, 0.973);
+}
+#edu{
+    color:purple;
+    font-variant: small-caps;
+}
+#na{
+    font-style: oblique;
+}
+#dif{
+    color:goldenrod;
+}
+#tab{
+    color:darkblue;
+    font-style:italic;  
+}
